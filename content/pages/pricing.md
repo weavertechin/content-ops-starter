@@ -3,7 +3,7 @@ title: solutions
 slug: pricing
 sections:
   - title:
-      text: Defend Your DigitalInfrastructure
+      text: Defend Your Digital Infrastructure
       color: text-dark
       styles:
         self:

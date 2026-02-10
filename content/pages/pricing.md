@@ -9,7 +9,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      weavertech delivers comprehensive cybersecurity solutions, managed IT
+      services, and enterprise technology reselling to protect and empower your
+      business.
     plans:
       - title: Developers
         price: Free

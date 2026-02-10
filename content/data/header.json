@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/ChatGPT Image Feb 10, 2026, 11_46_39 PM.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -13,7 +12,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Solutions",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -21,7 +20,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Services",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -30,45 +29,13 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Industries",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
@@ -92,5 +59,6 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "weavertech"
 }

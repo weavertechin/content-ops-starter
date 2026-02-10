@@ -10,9 +10,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      weavertech delivers comprehensive cybersecurity solutions, managed IT
-      services, and enterprise technology reselling to protect and empower your
-      business.
+      weavertech delivers comprehensive cybersecurity solutions, IT services,
+      and enterprise technology reselling to protect and empower your business.
     plans:
       - title: Developers
         price: Free

@@ -3,7 +3,7 @@ title: solutions
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Defend Your DigitalInfrastructure
       color: text-dark
       styles:
         self:
